@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-1C1C1C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Specialization-Data%20Science%20Engineering-2E2E2E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-3A3A3A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-PR%20Director-4A4A4A?style=for-the-badge" />
 </p>
 
 ---
@@ -35,16 +34,6 @@ I believe great systems are built at the intersection of rigor, clarity, and pur
 
 **Data Science Stack**  
 Pandas • NumPy • Scikit-learn • Matplotlib • Statistical Modeling
-
----
-
-## Engineering Metrics
-
-<p align="center">
-  <!-- Minimal badge -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinethwickramaratna&show_icons=true&theme=github_dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinethwickramaratna&layout=compact&hide_border=true&theme=github_dark" height="165"/>
-</p>
 
 ---
 
