@@ -41,7 +41,7 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Statistical Modeling
 ## Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinethwickramaratna&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
+  ![GitHub stats](https://img.shields.io/github/stats-counts/Sinethwickramaratna?style=flat-square)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinethwickramaratna&layout=compact&hide_border=true&theme=github_dark" height="165"/>
 </p>
 
