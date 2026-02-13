@@ -29,7 +29,7 @@ I believe great systems are built at the intersection of rigor, clarity, and pur
 ## Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git,dart,flutter" />
 </p>
 
 **Data Science Stack**  
