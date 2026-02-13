@@ -65,13 +65,13 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Statistical Modeling
 ## Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9pR3LLGjRX6SQpF%2BPdRaZw%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-111111?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-000000?style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sinethwickramaratna@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1C1C1C?style=for-the-badge&logo=gmail" />
   </a>
 </p>
