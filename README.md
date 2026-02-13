@@ -1,58 +1,74 @@
 <h1 align="center">Sineth Wickramaratna</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+Undergraduate;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Creative+Technologist" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Data+Science+Engineering+Undergraduate;Machine+Learning+Research+Driven;Building+Scalable+Intelligent+Systems;Precision.+Logic.+Impact." />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Data%20Science%20Engineering-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-PR%20Director-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Designer-Graphic%20Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Data%20Science%20Engineering-2E2E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-3A3A3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-PR%20Director-4A4A4A?style=for-the-badge" />
 </p>
 
 ---
 
-## About
+## Philosophy
 
 Computer Science & Engineering undergraduate specializing in **Data Science Engineering** at the University of Moratuwa.
 
-Focused on machine learning, statistical modeling, and scalable data-driven systems. Passionate about transforming complex data into meaningful insights and building intelligent solutions that create measurable impact.
+I focus on designing intelligent systems grounded in strong mathematical reasoning and practical engineering principles. My work revolves around machine learning, analytical modeling, and scalable data architectures.
 
-Currently serving as **Public Relations Director** of the Rotaract Club of University of Moratuwa, leading branding and strategic communication initiatives. Also working as a graphic designer, combining analytical thinking with visual precision.
+Beyond engineering, I serve as **Public Relations Director** of the Rotaract Club of University of Moratuwa, leading strategic communications and brand identity. I also work in graphic design, applying structured creativity to visual storytelling and data presentation.
+
+I believe great systems are built at the intersection of rigor, clarity, and purpose.
 
 ---
 
-## Technical Stack
+## Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mysql,git,linux" />
 </p>
 
-### Data Science
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+**Data Science Stack**  
+Pandas • NumPy • Scikit-learn • Matplotlib • Statistical Modeling
 
 ---
 
-## GitHub Performance
+## Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" height="165"/>
 </p>
 
 ---
 
-## Current Focus
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## Dynamic Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## Current Direction
 
 - Advanced Machine Learning  
-- Deep Learning  
-- Data Engineering Concepts  
-- Scalable System Design  
+- Deep Learning Architectures  
+- Data Engineering Pipelines  
+- Distributed Systems  
 
 ---
 
@@ -60,18 +76,18 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-111111?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-000000?style=for-the-badge" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-1C1C1C?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Engineering intelligence through data. Designing clarity through simplicity.</i>
+  <i>"Engineering intelligence through disciplined curiosity."</i>
 </p>
