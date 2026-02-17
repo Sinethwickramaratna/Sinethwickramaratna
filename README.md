@@ -68,7 +68,7 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Statistical Modeling
   <a href="https://www.linkedin.com/in/sineth-wickramaratna-a4332a2b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-111111?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://www.sinethwickramaratna.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-000000?style=for-the-badge" />
   </a>
   <a href="mailto:sinethwickramaratna@gmail.com">
